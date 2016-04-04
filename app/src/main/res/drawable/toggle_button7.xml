@@ -2,8 +2,8 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:state_checked="true"
-        android:drawable="@drawable/rgm89" />
+        android:drawable="@drawable/sm_true" />
     <item
         android:state_checked="false"
-        android:drawable="@drawable/rgm89s" />
+        android:drawable="@drawable/sm_true" />
 </selector>

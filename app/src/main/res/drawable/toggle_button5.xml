@@ -2,8 +2,8 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:state_checked="true"
-        android:drawable="@drawable/msn03_gyunei" />
+        android:drawable="@drawable/sm_gomennasai" />
     <item
         android:state_checked="false"
-        android:drawable="@drawable/msn03_quess" />
+        android:drawable="@drawable/sm_gomennasai" />
 </selector>
