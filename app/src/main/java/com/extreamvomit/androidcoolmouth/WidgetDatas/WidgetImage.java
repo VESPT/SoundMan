@@ -42,8 +42,8 @@ public class WidgetImage implements Serializable {
         switch(d_type){
             case TYPE_01:
                 //画像セット
-                nImageID = R.drawable.sm_jankennpon;
-                cImageID = R.drawable.sm_jankennpon;
+                nImageID = R.drawable.sm_jankenpon;
+                cImageID = R.drawable.sm_jankenpon;
                 break;
             case TYPE_02:
                 nImageID = R.drawable.sm_aiko;
