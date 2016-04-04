@@ -15,11 +15,12 @@
         />
 
     <ImageButton
-        android:layout_width="70dp"
-        android:layout_height="35dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:id="@+id/vgun_imageButton"
         android:layout_weight="0.12"
         android:src="@drawable/g_lm312v04"
+        android:scaleType="fitXY"
         />
 
 </LinearLayout>

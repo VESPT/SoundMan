@@ -2,8 +2,8 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:state_checked="true"
-        android:drawable="@drawable/g_msz010" />
+        android:drawable="@drawable/sm_aiko" />
     <item
         android:state_checked="false"
-        android:drawable="@drawable/g_fa010s" />
+        android:drawable="@drawable/sm_aiko" />
 </selector>
