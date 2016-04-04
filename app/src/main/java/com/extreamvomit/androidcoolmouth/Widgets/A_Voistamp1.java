@@ -4,7 +4,7 @@ import android.util.Log;
 
 import com.extreamvomit.androidcoolmouth.WidgetDatas.WidgetIDNum;
 
-import static com.extreamvomit.androidcoolmouth.WidgetIDNum.WTNUM1;
+import static com.extreamvomit.androidcoolmouth.WidgetTypeNum.WTNUM1;
 
 /**
  * Created by vesp on 15/12/27.

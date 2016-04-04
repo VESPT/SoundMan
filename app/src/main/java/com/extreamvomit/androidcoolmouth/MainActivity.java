@@ -1,27 +1,17 @@
 package com.extreamvomit.androidcoolmouth;
 
-import android.content.Context;
 import android.content.Intent;
 import android.media.AudioManager;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.TextView;
-import android.widget.Toast;
-import android.media.MediaPlayer; // 音声用
-import android.widget.Button;
-import java.io.IOException;
 import android.media.SoundPool; // 効果音用
-import java.util.Timer;
-import java.util.TimerTask;
-import android.os.Handler;
-import static com.extreamvomit.androidcoolmouth.WidgetIDNum.WTNUM1;
+
+import static com.extreamvomit.androidcoolmouth.WidgetTypeNum.WTNUM1;
 import static com.extreamvomit.androidcoolmouth.TypeDefine.TYPE_02;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
